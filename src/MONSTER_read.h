@@ -1,9 +1,9 @@
 #ifndef _MONSTER_READ_H_
 #define _MONSTER_READ_H_
 
-#define MAXCOV 100
-#define MAXSNPLEN 200
-#define MAXINDIV 10000
+#define MAXCOV 1000
+#define MAXSNPLEN 500
+#define MAXINDIV 40000
 
 struct FAMILY {
 	long int famID;
