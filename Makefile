@@ -12,7 +12,7 @@ CPP = g++
 
 CPPFLAGS = -w -O3
 
-OUTPUT = ./MONSTER
+OUTPUT = ./myMONSTER
 
 all: 
 	$(CPP) ./src/MONSTER.cpp $(LIBS_PATH) $(LIBS_LNX_D_GSL) -I $(PATH_TO_EIGEN) $(CPPFLAGS) -o $(OUTPUT) 
