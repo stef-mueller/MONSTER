@@ -1,7 +1,7 @@
 # Modification to software MONSTER
 
 ## Github
-Repository: https://github.com/stef-mueller/MONSTER.git
+Repository: https://github.com/stef-mueller/MONSTER.git   
 get code:
 ```{bash}
 git clone https://github.com/stef-mueller/MONSTER.git
