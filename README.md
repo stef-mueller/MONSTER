@@ -12,7 +12,7 @@ Modify MONSTER for better usage in own research questions
 
 ## Source:
 Publication: [10.1002/gepi.21775](https://doi.org/10.1002/gepi.21775)   
-Code: [hosted at university of chicago](www.stat.uchicago.edu/~mcpeek/software/index.html)   
+Code: [hosted at university of chicago](https://www.stat.uchicago.edu/~mcpeek/software/index.html)   
 Documentation: [MONSTER_v1.3_doc.pdf](https://www.stat.uchicago.edu/~mcpeek/software/MONSTER/MONSTER_v1.3_doc.pdf)
 
 ## Modifications:
